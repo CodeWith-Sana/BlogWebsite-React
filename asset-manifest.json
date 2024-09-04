@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/BlogWebsite-React/static/css/main.1d5d0096.css",
+    "main.js": "/BlogWebsite-React/static/js/main.792522f7.js",
+    "static/js/453.58b6af48.chunk.js": "/BlogWebsite-React/static/js/453.58b6af48.chunk.js",
+    "static/media/Financeebook.pdf": "/BlogWebsite-React/static/media/Financeebook.7052b5dd7d30b1d8ca87.pdf",
+    "static/media/chaticon.png": "/BlogWebsite-React/static/media/chaticon.919c871eaa7c62a6ccc8.png",
+    "static/media/Logo.png": "/BlogWebsite-React/static/media/Logo.184fbdaf8af1f385cc80.png",
+    "index.html": "/BlogWebsite-React/index.html",
+    "main.1d5d0096.css.map": "/BlogWebsite-React/static/css/main.1d5d0096.css.map",
+    "main.792522f7.js.map": "/BlogWebsite-React/static/js/main.792522f7.js.map",
+    "453.58b6af48.chunk.js.map": "/BlogWebsite-React/static/js/453.58b6af48.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d5d0096.css",
+    "static/js/main.792522f7.js"
+  ]
+}
